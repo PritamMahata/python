@@ -1,0 +1,156 @@
+{
+"id": "a1",
+"title": "29 - Docstrings in Python  Python Tutorial  Day 29_1080pFHR",
+"name": "29 - Docstrings in Python  Python Tutorial  Day 29_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a2",
+"title": "30 - Recursion in Python  Python Tutorial  Day 30_1080pFHR",
+"name": "30 - Recursion in Python  Python Tutorial  Day 30_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a3",
+"title": "31 - Sets in Python  Python Tutorial  Day 31_1080pFHR",
+"name": "31 - Sets in Python  Python Tutorial  Day 31_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a4",
+"title": "32 - Set Methods in Python  Python Tutorial  Day 32_1080pFHR",
+"name": "32 - Set Methods in Python  Python Tutorial  Day 32_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a5",
+"title": "33 - Dictionaries in Python  Python Tutorial  Day 33_1080pFHR",
+"name": "33 - Dictionaries in Python  Python Tutorial  Day 33_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a6",
+"title": "34 - Dictionary Methods in Python  Python Tutorial  Day 34_1080pFHR",
+"name": "34 - Dictionary Methods in Python  Python Tutorial  Day 34_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a7",
+"title": "35 - for Loop with else in Python  Python Tutorial  Day 35_1080pFHR",
+"name": "35 - for Loop with else in Python  Python Tutorial  Day 35_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a8",
+"title": "36 - Exception Handling in Python  Python Tutorial  Day 36_1080pFHR",
+"name": "36 - Exception Handling in Python  Python Tutorial  Day 36_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a9",
+"title": "37 - Finally keyword in Python  Python Tutorial  Day 37_1080pFHR",
+"name": "37 - Finally keyword in Python  Python Tutorial  Day 37_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a10",
+"title": "38 - Raising custom errors in Python  Python Tutorial  Day 38_1080pFHR",
+"name": "38 - Raising custom errors in Python  Python Tutorial  Day 38_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a11",
+"title": "40 - Exercise 4 Secret Code Language  Python Tutorial  Day 40_1080pFHR",
+"name": "40 - Exercise 4 Secret Code Language  Python Tutorial  Day 40_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a12",
+"title": "41 - Short hand if else statements  Python Tutorial  Day 41_1080pFHR",
+"name": "41 - Short hand if else statements  Python Tutorial  Day 41_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a13",
+"title": "42 - Enumerate Function in Python  Python Tutorial  Day 42_1080pFHR",
+"name": "42 - Enumerate Function in Python  Python Tutorial  Day 42_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a14",
+"title": "43 - Virtual Environment in Python  Python Tutorial  Day 43_1080pFHR",
+"name": "43 - Virtual Environment in Python  Python Tutorial  Day 43_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a15",
+"title": "44 - How import works in Python  Python Tutorial  Day 44_1080pFHR",
+"name": "44 - How import works in Python  Python Tutorial  Day 44_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a16",
+"title": "45 - if name  main in Python  Python Tutorial  Day 45_1080pFHR",
+"name": "45 - if name  main in Python  Python Tutorial  Day 45_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a17",
+"title": "46 - os Module in Python  Python Tutorial  Day 46_1080pFHR",
+"name": "46 - os Module in Python  Python Tutorial  Day 46_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a18",
+"title": "47 - Exercise 4 Solutions and Shoutouts  Python Tutorial  Day 47_1080pFHR",
+"name": "47 - Exercise 4 Solutions and Shoutouts  Python Tutorial  Day 47_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a19",
+"title": "48 - Local vs Global Variables in Python Python Tutorial  Day 48_1080pFHR",
+"name": "48 - Local vs Global Variables in Python Python Tutorial  Day 48_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a20",
+"title": "49 - File IO in Python  Python Tutorial  Day 49_1080pFHR",
+"name": "49 - File IO in Python  Python Tutorial  Day 49_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a21",
+"title": "50 - read readlines and other methods  Python Tutorial  Day 50_1080pFHR",
+"name": "50 - read readlines and other methods  Python Tutorial  Day 50_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a22",
+"title": "51 - seek tell and other functions  Python Tutorial  Day 51_1080pFHR",
+"name": "51 - seek tell and other functions  Python Tutorial  Day 51_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a23",
+"title": "52 - Lambda functions in Python  Python Tutorial  Day 52_1080pFHR",
+"name": "52 - Lambda functions in Python  Python Tutorial  Day 52_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a24",
+"title": "53 - Map Filter and Reduce in Python  Python Tutorial  Day 53_1080pFHR",
+"name": "53 - Map Filter and Reduce in Python  Python Tutorial  Day 53_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a25",
+"title": "54 - is vs  in Python  Python Tutorial  Day 54_1080pFHR",
+"name": "54 - is vs  in Python  Python Tutorial  Day 54_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a26",
+"title": "55 - Exercise 5  Snake Water Gun  Python Tutorial  Day 55_1080pFHR",
+"name": "55 - Exercise 5  Snake Water Gun  Python Tutorial  Day 55_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a27",
+"title": "56 - Introduction to OOPs in Python  Python Tutorial  Day 56_1080pFHR",
+"name": "56 - Introduction to OOPs in Python  Python Tutorial  Day 56_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a28",
+"title": "57 - Classes and Objects in Python  Python Tutorial  Day 57_1080pFH",
+"name": "57 - Classes and Objects in Python  Python Tutorial  Day 57_1080pFH.mp4",
+"duration": "-- : --",
+},{
+"id": "a29",
+"title": "58 - Constructors in Python  Python Tutorial  Day 58_1080pFHR",
+"name": "58 - Constructors in Python  Python Tutorial  Day 58_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a30",
+"title": "59 - Decorators in Python  Python Tutorial  Day 59_1080pFHR",
+"name": "59 - Decorators in Python  Python Tutorial  Day 59_1080pFHR.mp4",
+"duration": "-- : --",
+},{
+"id": "a31",
+"title": "60 - Getters and Setters in Python  Python Tutorial  Day 60_1080pFHR",
+"name": "60 - Getters and Setters in Python  Python Tutorial  Day 60_1080pFHR.mp4",
+"duration": "-- : --",
+},
