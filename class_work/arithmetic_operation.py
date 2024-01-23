@@ -1,3 +1,4 @@
+# WAP to perform arithmetic operations on two numbers.
 n1 = int(input("Enter 1st number: "))
 n2 = int(input("Enter 2nd number: "))
 add = n1 + n2

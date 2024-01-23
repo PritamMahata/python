@@ -1,6 +1,10 @@
+# WAP to check if the user has entered a charecter, digit, white space or a special charecter.
 inp = input("Enter a charecter ")
-if (inp.isalpha()):
+if inp.isalpha():
     print("You enter charecter")
-elif (inp.isdigit()):
+elif inp.isdigit():
     print("You enter digit")
-    
+elif inp.isspace():
+    print("You enter a white space")
+else:
+    print("You enter a special charecter")
