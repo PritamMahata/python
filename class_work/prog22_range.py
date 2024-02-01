@@ -1,3 +1,4 @@
+# WAP using range function
 print(range(15))
 print(list(range(15)))
 print(list(range(4, 9)))
