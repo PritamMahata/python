@@ -1,5 +1,4 @@
 # WAP to find sum of the series s = 1 + X + X^2 + X^3 + ... + X^n
-# (Input value of x and n)
 
 x = int(input("Enter value of x: "))
 n = int(input("Enter value of n: "))
