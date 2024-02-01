@@ -1,4 +1,4 @@
-# WAP a program to print the following pattern:
+# WAP to print the following pattern:
 # *
 # * *
 # * * *

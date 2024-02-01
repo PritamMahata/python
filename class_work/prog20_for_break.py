@@ -1,5 +1,5 @@
 # WAP using break inside for loop
 for s in "Python loop":
-    if s == "l":
+    if s == "t":
         break
     print("current letter: ", s)
